@@ -16,19 +16,21 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Additional stuff for this product.
 TARGET_BOOT_ANIMATION_RES := 1080
-RICE_MAINTAINER := Sreeshankar K
-RICE_CHIPSET := Snapdragon 765G 5G
-RICE_PACKAGE_TYPE := PIXEL
-TARGET_BUILD_APERTURE_CAMERA := true
-SUSHI_BOOTANIMATION := 1080
-WITH_GMS := true
-TARGET_USE_GOOGLE_TELEPHONY := true
+RISING_MAINTAINER := Sreeshankar K
+RISING_CHIPSET := Snapdragon 765G 5G
+TARGET_EXCLUDES_APERTURE := false
 TARGET_USES_CUSTOM_AVB_KEY := true
 TARGET_SUPPORTS_QUICK_TAP := true
 WITH_FOD_ANIMATIONS := true
 TARGET_HAS_UDFPS := true
+TARGET_USES_BLUR := true 
+ifeq ($(WITH_GMS),true)
+RISING_PACKAGE_TYPE := GAPPS
+TARGET_USE_GOOGLE_TELEPHONY := true
 TARGET_SUPPORTS_NEXT_GEN_ASSISTANT := true
-TARGET_USES_BLUR := true   
+else
+RISING_PACKAGE_TYPE := AOSP
+endif
 
 # Device specific
 PRODUCT_NAME := lineage_avicii
