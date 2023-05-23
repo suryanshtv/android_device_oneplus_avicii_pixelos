@@ -11,29 +11,18 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit from avicii device
 $(call inherit-product, device/oneplus/avicii/device.mk)
 
-# Inherit some common riceDroid stuff.
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+# Inherit some common AncientOS stuff.
+$(call inherit-product, vendor/ancient/config/common_full_phone.mk)
 
 # Additional stuff for this product.
 TARGET_BOOT_ANIMATION_RES := 1080
-RISING_MAINTAINER := Sreeshankar K
-RISING_CHIPSET := Snapdragon 765G 5G
-TARGET_EXCLUDES_APERTURE := false
 TARGET_USES_CUSTOM_AVB_KEY := true
 TARGET_SUPPORTS_QUICK_TAP := true
-WITH_FOD_ANIMATIONS := true
-TARGET_HAS_UDFPS := true
-TARGET_USES_BLUR := true 
-ifeq ($(WITH_GMS),true)
-RISING_PACKAGE_TYPE := GAPPS
-TARGET_USE_GOOGLE_TELEPHONY := true
-TARGET_SUPPORTS_NEXT_GEN_ASSISTANT := true
-else
-RISING_PACKAGE_TYPE := AOSP
-endif
+EXTRA_UDFPS_ANIMATIONS := true
+TARGET_EXCLUDES_AUDIOFX := true
 
 # Device specific
-PRODUCT_NAME := lineage_avicii
+PRODUCT_NAME := ancient_avicii
 PRODUCT_DEVICE := avicii
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
