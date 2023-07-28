@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16aa4614-8384-4ac0-a8dc-003caf75dabd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidProducts.mk" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidProducts.mk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardConfig.mk" beforeDir="false" afterPath="$PROJECT_DIR$/BoardConfig.mk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ancient_avicii.mk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/device.mk" beforeDir="false" afterPath="$PROJECT_DIR$/device.mk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay-ancient/frameworks/base/core/res/res/values/ancient_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/overlay-lineage/frameworks/base/core/res/res/values/ancient_config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay-ancient/frameworks/base/core/res/res/values/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/overlay-lineage/frameworks/base/core/res/res/values/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay-ancient/frameworks/base/packages/SettingsLib/res/values/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/overlay-lineage/frameworks/base/packages/SettingsLib/res/values/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay-ancient/frameworks/base/packages/SystemUI/res/values/ancient_dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/overlay-lineage/frameworks/base/packages/SystemUI/res/values/ancient_dimens.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay-ancient/frameworks/base/packages/SystemUI/res/values/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/overlay-lineage/frameworks/base/packages/SystemUI/res/values/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay-ancient/packages/apps/Aperture/app/src/main/res/values/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/overlay-lineage/packages/apps/Aperture/app/src/main/res/values/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay-ancient/packages/apps/Dialer/java/com/android/dialer/callrecord/res/values/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/overlay-lineage/packages/apps/Dialer/java/com/android/dialer/callrecord/res/values/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay-ancient/packages/apps/Settings/res/values/ancient_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/overlay-lineage/packages/apps/Settings/res/values/ancient_config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay-ancient/packages/apps/Settings/res/values/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/overlay-lineage/packages/apps/Settings/res/values/config.xml" afterDir="false" />
-    </list>
+    <list default="true" id="16aa4614-8384-4ac0-a8dc-003caf75dabd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +17,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2TCKu6XWda7u2EHsQysMb0OSuv5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
