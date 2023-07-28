@@ -5,115 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16aa4614-8384-4ac0-a8dc-003caf75dabd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Android.bp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Android.mk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidProducts.mk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoardConfig.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidProducts.mk" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidProducts.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardConfig.mk" beforeDir="false" afterPath="$PROJECT_DIR$/BoardConfig.mk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ancient_avicii.mk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/audio_effects.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/audio_io_policy.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/audio_platform_info.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/audio_policy_configuration.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/audio_policy_configuration_a2dp_offload_disabled.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/bluetooth_hearing_aid_audio_policy_configuration.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/mixer_paths.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/sound_trigger_mixer_paths.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/sound_trigger_platform_info.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bluetooth/include/bdroid_buildcfg.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/compatibility_matrix.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.fs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configs/gps.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configs/hals.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configs/msm_irqbalance.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configs/privapp-permissions-hotword.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configs/thermal-engine.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/device.mk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/device_framework_matrix.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extract-files.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/init/Android.bp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/init/fstab.qcom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/init/init.class_main.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/init/init.oplus.hw.rc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/init/init.oplus.rc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/init/init.oplus_extras.rc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/init/init.qcom.early_boot.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/init/init.qcom.post_boot.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/init/init.qcom.rc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/init/init.qcom.recovery.rc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/init/init.qcom.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/init/init.target.rc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/init/init_avicii.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/init/ueventd.oplus.rc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/init/ueventd.qcom.rc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/media_codecs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/media_codecs_performance.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/media_codecs_vendor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/media_codecs_vendor_audio.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/media_profiles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/media_profiles_vendor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/system_properties.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odm.prop" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay-ancient/frameworks/base/core/res/res/values/ancient_config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay-ancient/frameworks/base/core/res/res/values/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay-ancient/frameworks/base/packages/SettingsLib/res/values/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay-ancient/frameworks/base/packages/SystemUI/res/values/ancient_dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay-ancient/frameworks/base/packages/SystemUI/res/values/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay-ancient/packages/apps/Aperture/app/src/main/res/values/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay-ancient/packages/apps/Dialer/java/com/android/dialer/callrecord/res/values/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay-ancient/packages/apps/Settings/res/values/ancient_config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay-ancient/packages/apps/Settings/res/values/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/CarrierConfigResCommon/Android.bp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/CarrierConfigResCommon/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/CarrierConfigResCommon/res/xml/vendor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/FrameworksResTarget/Android.bp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/FrameworksResTarget/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/FrameworksResTarget/res/values/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusExtrasResCommon/Android.bp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusExtrasResCommon/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusExtrasResCommon/res/values/doze_sensors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusExtrasResCommon/res/values/node_paths.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusExtrasResCommon/res/values/slider_pref_values.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusExtrasResCommon/res/values/supported_features.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusFrameworksResCommon/Android.bp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusFrameworksResCommon/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusFrameworksResCommon/res/values-mcc310-mnc590/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusFrameworksResCommon/res/values-mcc310-mnc890/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusFrameworksResCommon/res/values-mcc311-mnc270/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusFrameworksResCommon/res/values-mcc311-mnc480/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusFrameworksResCommon/res/values-mcc312-mnc770/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusFrameworksResCommon/res/values/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusFrameworksResTarget/Android.bp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusFrameworksResTarget/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusFrameworksResTarget/res/values/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusFrameworksResTarget/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusFrameworksResTarget/res/xml/power_profile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusSettingsProviderResTarget/Android.bp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusSettingsProviderResTarget/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusSettingsProviderResTarget/res/values/defaults.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusSettingsResCommon/Android.bp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusSettingsResCommon/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusSettingsResCommon/res/values/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusSystemUIResCommon/Android.bp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusSystemUIResCommon/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusSystemUIResCommon/res/values/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusSystemUIResTarget/Android.bp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusSystemUIResTarget/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusSystemUIResTarget/res/drawable/rounded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusSystemUIResTarget/res/values-land/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusSystemUIResTarget/res/values/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/OPlusSystemUIResTarget/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/WifiResTarget/Android.bp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/WifiResTarget/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay/WifiResTarget/res/values/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product.prop" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proprietary-files-caf.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proprietary-files.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seccomp/mediacodec.policy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup-makefiles.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/system_ext.prop" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/touch/include/TouchscreenGestureConfig.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor.prop" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/device.mk" beforeDir="false" afterPath="$PROJECT_DIR$/device.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/overlay-ancient/frameworks/base/core/res/res/values/ancient_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/overlay-lineage/frameworks/base/core/res/res/values/ancient_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/overlay-ancient/frameworks/base/core/res/res/values/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/overlay-lineage/frameworks/base/core/res/res/values/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/overlay-ancient/frameworks/base/packages/SettingsLib/res/values/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/overlay-lineage/frameworks/base/packages/SettingsLib/res/values/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/overlay-ancient/frameworks/base/packages/SystemUI/res/values/ancient_dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/overlay-lineage/frameworks/base/packages/SystemUI/res/values/ancient_dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/overlay-ancient/frameworks/base/packages/SystemUI/res/values/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/overlay-lineage/frameworks/base/packages/SystemUI/res/values/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/overlay-ancient/packages/apps/Aperture/app/src/main/res/values/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/overlay-lineage/packages/apps/Aperture/app/src/main/res/values/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/overlay-ancient/packages/apps/Dialer/java/com/android/dialer/callrecord/res/values/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/overlay-lineage/packages/apps/Dialer/java/com/android/dialer/callrecord/res/values/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/overlay-ancient/packages/apps/Settings/res/values/ancient_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/overlay-lineage/packages/apps/Settings/res/values/ancient_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/overlay-ancient/packages/apps/Settings/res/values/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/overlay-lineage/packages/apps/Settings/res/values/config.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2TCKu6XWda7u2EHsQysMb0OSuv5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -138,9 +43,8 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "tiramisu",
-    "last_opened_file_path": "/home/suryansh/Desktop/pixelos/device/oneplus/avicii",
+    "last_opened_file_path": "/home/suryansh/Desktop/pixelos/device/oneplus/android_device_oneplus_avicii_pixelos",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
